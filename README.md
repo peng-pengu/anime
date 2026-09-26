@@ -1,4 +1,4 @@
-# 애니메이션 스트리밍 플레이어 (Anime Streaming Player)
+# 애니메이션 스트리밍 플레이어 (Anime Streaming Player
 
 Next.js 15 App Router와 Vercel Serverless, Neon Postgres를 기반으로 구축된 고성능 애니메이션 웹 스트리밍 플레이어입니다.
 
